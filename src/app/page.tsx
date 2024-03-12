@@ -7,7 +7,7 @@ import Image from "next/image";
 import { Card3DPin } from "@/Components/Card3DPin";
 import { CardGrdi } from "@/Components/CardGrdi";
 import Navbar from "@/Components/Navbar";
-import { TracingBeam } from "@/Components/ui/tracing-beam";
+
 
 
 export default function Home() {
